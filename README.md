@@ -108,7 +108,7 @@ inventory-os/
 | Technology | Purpose |
 |---|---|
 | [React 18](https://react.dev/) | UI framework |
-| [Vite 5](https://vitejs.dev/) | Build tool & dev server |
+| [Vite 6](https://vitejs.dev/) | Build tool & dev server |
 | [Recharts](https://recharts.org/) | Charts and visualizations |
 | [Lucide React](https://lucide.dev/) | Icon library |
 | [Sarabun (Google Fonts)](https://fonts.google.com/specimen/Sarabun) | Thai-friendly typography |
